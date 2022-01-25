@@ -1,0 +1,16 @@
+/home/ysf/go/src/go-shadowsocks2/main.go
+/home/ysf/go/src/go-shadowsocks2/#main.go#
+/home/ysf/go/src/go-shadowsocks2/core/cipher.go
+/home/ysf/go/src/go-shadowsocks2/core/#cipher.go#
+/usr/local/go/src/flag/flag.go
+/usr/local/go/src/flag/#flag.go#
+/home/ysf/go/src/go-shadowsocks2/tcp.go
+/home/ysf/go/src/go-shadowsocks2/#tcp.go#
+/home/ysf/go/src/go-shadowsocks2/udp.go
+/home/ysf/go/src/go-shadowsocks2/#udp.go#
+/home/ysf/go/src/go-shadowsocks2/tcp_linux.go
+/home/ysf/go/src/go-shadowsocks2/#tcp_linux.go#
+/home/ysf/go/src/go-shadowsocks2/shadowaead/stream.go
+/home/ysf/go/src/go-shadowsocks2/shadowaead/#stream.go#
+/usr/local/go/src/net/net.go
+/usr/local/go/src/net/#net.go#
